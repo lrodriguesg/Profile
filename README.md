@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lrodriguesg
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in Python and Datascience
 - 🌱 I’m currently learning python libraries, sql, statistic and other topics related to Datascience
 - 💞️ I'm looking for internships to improve myself more in the area and enter the job market
